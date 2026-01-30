@@ -4,6 +4,7 @@ function App() {
         <Container>
             <Row>
                 <Col md={{ offset: 3, span: 6 }}>
+                    <h2 style={{ textAlign: 'center', margin: '20px 0' }}>canye666's Todolist</h2>
                     <TodoListCard />
                 </Col>
             </Row>
